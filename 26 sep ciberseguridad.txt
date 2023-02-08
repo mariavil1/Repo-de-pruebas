@@ -1,0 +1,3 @@
+wazuh ayuda a detectar ciberdelincuentes, y persuadirlos de no entrar en nuestra red
+viruztotal permite escanear cualquier archivo de nuestro pc en busca de virus, contrarestando con bases de datos de antivirus a nivel global
+owasp fundacion dedicada a la seguridad de app y pag webs 
